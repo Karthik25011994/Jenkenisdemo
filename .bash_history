@@ -65,3 +65,9 @@ git push --all github
 jenkins --version
 cat /var/lib/jenkins/secrets/initialAdminPassword
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+git init
+git status
+git add .
+git -m commit "updated"
+git commit -m "updated"
+git status
